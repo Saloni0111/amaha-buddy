@@ -63,7 +63,7 @@ extract signals via tool)     service taxonomy)
 
 ## Model / API
 
-Uses Google's Gemini API (`gemini-2.5-flash`) via the `google-genai` SDK, on
+Uses Google's Gemini API (`gemini-3.6-flash`) via the `google-genai` SDK, on
 Google's free tier -- no billing account required. Get a key at
 [aistudio.google.com](https://aistudio.google.com), no credit card needed.
 Note: free-tier usage may be used by Google to improve their models; avoid it for
